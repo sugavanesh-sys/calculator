@@ -1,2 +1,2 @@
-# calculator
-Create a simple calculator
+# Calculator
+Create a Simple Calculator app
